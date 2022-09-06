@@ -162,7 +162,7 @@ const contact = {
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
+  github: "https://github.com/bridgetibitoye",
   facebook: "https://facebook.com",
   // twitter: "https://twitter.com",
   instagram: "https://instagram.com",
